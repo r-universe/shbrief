@@ -1,8 +1,8 @@
 [
   {
-    "package": "GenomicSuperSignature"
+    "package": "AnVILWorkflow"
   },
   {
-    "package": "AnVILWorkflow"
+    "package": "GenomicSuperSignature"
   }
 ]
